@@ -2,7 +2,10 @@
 
 A comprehensive **Personal Finance Management Application** built with **React.js**. This app helps users track their income, expenses, and budgets with visual analytics and real-time alerts.
 
-🔗 **Live Demo:** [https://finance-tracker-assignment7.netlify.app/]
+
+🔗 **Live Demos:**
+- [View on Netlify](https://finance-tracker-assignment7.netlify.app/)
+- [View on Vercel](https://assignment-7-finance-tracker.vercel.app/)
 
 ## Key Features
 
